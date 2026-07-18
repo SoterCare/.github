@@ -18,7 +18,7 @@
 
 ---
 
-## Who We Are
+## 💙 Who We Are
 
 SoterCare is a student-led developer community building open-source healthcare technology through Artificial Intelligence, Cloud Computing, the Internet of Things, and modern software engineering.
 
@@ -26,7 +26,7 @@ More than the things we build, we're here to help students grow — collaboratin
 
 We believe the best way to learn is by building together.
 
-## What We're Building
+## 🛠️ What We're Building
 
 Our projects span the full stack of modern healthcare technology:
 
@@ -38,26 +38,42 @@ Our projects span the full stack of modern healthcare technology:
 
 Explore our public repositories to see what we're working on right now.
 
-## Community & Events
+## 📊 Community Impact
+
+- 🏆 Hult Prize Finalist
+- 🥈 2nd Runner-Up — CuttingEdge 2026
+- 🚀 Selected for the NIA Innovation Voucher Programme 2026
+- 🥉 3rd Place — CodeSprint 11
+- 🤝 Community Partner — Nexus Spring of Code
+- 🌍 Presented at the U.S. Delegation Visit — University of Oklahoma
+- 👨‍💻 50+ students trained through the Algorand Blockchain Workshop
+- 🎓 200+ school students engaged through VisioNEX Hackathon
+- 🌱 Ambassador & Contributor — GirlScript Summer of Code 2026
+
+## 🤝 Community Partners
+
+- Nexus Spring of Code (NSoC)
+- Algorand Foundation
+- Solana Community
+- GirlScript Summer of Code
+- IEEE
+- AWS Cloud Club
+- Informatics Institute of Technology
+
+## 🌍 Community Events
 
 Throughout the year, our members organize and take part in:
 
-- Open-source programs and innovation challenges
-- Technical workshops and AI & Cloud learning sessions
-- Hackathons — as builders and as organizers
-- Mentorship for aspiring developers
-- Partnerships with other student communities
+- Open Source Programs
+- AI Workshops
+- Cloud Computing Sessions
+- Blockchain Workshops
+- Hackathons
+- Innovation Challenges
+- Student Meetups
+- Technical Talks
 
-## Milestones
-
-- Hult Prize Finalist
-- 2nd Runner-Up — CuttingEdge 2026
-- 3rd Place — CodeSprint 11
-- Selected for the NIA Innovation Voucher Programme 2026
-- Community Partner — Nexus Spring of Code
-- Presented during the U.S. Delegation Visit — University of Oklahoma
-
-## Get Involved
+## 🌱 Get Involved
 
 Whether it's your first pull request or you maintain production systems, there's a place for you here.
 
@@ -66,6 +82,15 @@ Whether it's your first pull request or you maintain production systems, there's
 3. Pick an issue, open a pull request, or just say hello
 
 Contributions of every kind are welcome — code, documentation, design, research, testing, and ideas. First-time contributors are especially encouraged.
+
+## 🚀 Join Our Community
+
+Whether you're interested in AI, Cloud, IoT, Blockchain, Mobile Development, or Open Source, we'd love to collaborate.
+
+[![Website](https://img.shields.io/badge/Website-sotercare.com-1a73e8?style=flat-square&logo=googlechrome&logoColor=white)](https://sotercare.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SoterCare-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sotercare)
+[![Instagram](https://img.shields.io/badge/Instagram-@sotercare__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sotercare_/)
+[![YouTube](https://img.shields.io/badge/YouTube-@SoterCare-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SoterCare)
 
 ---
 
