@@ -1,6 +1,9 @@
 <div align="center">
 
-# SoterCare
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoterCare/.github/main/profile/assets/SoterCare-Primary-logo-white.webp">
+  <img src="https://raw.githubusercontent.com/SoterCare/.github/main/profile/assets/SoterCare-Primary-logo-brandblue.webp" alt="SoterCare" width="420">
+</picture>
 
 ### Wellness Simplified
 
