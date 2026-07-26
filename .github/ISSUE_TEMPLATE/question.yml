@@ -1,0 +1,13 @@
+name: ❓ Question
+description: Ask a question about this project
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: textarea
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: For general community questions (not specific to this repo), [SoterCare Developers Discussions](https://github.com/SoterCare/community/discussions) is often a faster place to ask.

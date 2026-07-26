@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 SoterCare Developers Discussions
+    url: https://github.com/SoterCare/community/discussions
+    about: Questions, ideas, and general conversation — start here if it's not a concrete bug
+  - name: 🏠 Community Hub
+    url: https://github.com/SoterCare/community
+    about: Events, guides, templates, and everything the community maintains
