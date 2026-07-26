@@ -5,9 +5,9 @@
   <img src="https://raw.githubusercontent.com/SoterCare/.github/main/profile/assets/SoterCare-Primary-logo-brandblue.webp" alt="SoterCare" width="420">
 </picture>
 
-### Wellness Simplified
+### Student Developer Community
 
-**A student-led open-source community building healthcare technology together.**
+**A student-led developer community where students learn through open-source collaboration, technical workshops, and real-world software projects in healthcare technology.**
 
 [![Website](https://img.shields.io/badge/Website-sotercare.com-1a73e8?style=flat-square&logo=googlechrome&logoColor=white)](https://sotercare.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SoterCare-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sotercare)
@@ -50,16 +50,26 @@ Explore our public repositories to see what we're working on right now.
 
 ## 📊 Community Impact
 
-- 🌟 3000+ students reached across all community activities
-- 🏆 Hult Prize Finalist
-- 🥈 2nd Runner-Up — CuttingEdge 2026
-- 🚀 Selected for the NIA Innovation Voucher Programme 2026
-- 🥉 3rd Place — CodeSprint 11
-- 🤝 Community Partner — Nexus Spring of Code
-- 🌍 Presented at the U.S. Delegation Visit — University of Oklahoma
-- 👨‍💻 100+ students trained through the Algorand Blockchain Workshop
-- 🎓 500+ school students from 40+ schools engaged through VisioNEX Hackathon
+- 🌟 **3000+** students reached across all community activities
+- 👨‍💻 **100+** students trained through the Algorand Blockchain Workshop
+- 🎓 **500+** school students from **40+** schools engaged through VisioNEX Hackathon
+- 🤝 Community Partner — Nexus Spring of Code (NSoC)
 - 🌱 Ambassador & Contributor — GirlScript Summer of Code 2026
+- 🌍 Presented at the U.S. Delegation Visit — University of Oklahoma
+
+**Community members have also participated in and received recognition through:**
+
+- 🏆 Hult Prize (Finalist) · 🥈 CuttingEdge 2026 (2nd Runner-Up) · 🚀 NIA Innovation Voucher Programme 2026 (Selected) · 🥉 CodeSprint 11 (3rd Place)
+
+## 💻 Built on GitHub
+
+- **6** public repositories, with more launching as we grow
+- **[Contributors](https://github.com/SoterCare/community/graphs/contributors)** — every contribution counted and credited on the live graph
+- **80+** pages of community documentation — guides, event write-ups, and templates, all version-controlled
+- **9** categories of curated learning resources in [awesome-student-resources](https://github.com/SoterCare/awesome-student-resources)
+- **Issues** for event proposals, resource suggestions, and community ideas
+- **Pull Requests** reviewed and merged for every contribution — code, docs, or event content
+- **[Discussions](https://github.com/SoterCare/community/discussions)** open for questions, introductions, and peer-to-peer learning
 
 ## 🤝 Community Partners
 
