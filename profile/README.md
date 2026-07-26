@@ -46,7 +46,7 @@ Explore our public repositories to see what we're working on right now.
 - 🥉 3rd Place — CodeSprint 11
 - 🤝 Community Partner — Nexus Spring of Code
 - 🌍 Presented at the U.S. Delegation Visit — University of Oklahoma
-- 👨‍💻 50+ students trained through the Algorand Blockchain Workshop
+- 👨‍💻 100+ students trained through the Algorand Blockchain Workshop
 - 🎓 500+ school students from 40+ schools engaged through VisioNEX Hackathon
 - 🌱 Ambassador & Contributor — GirlScript Summer of Code 2026
 
