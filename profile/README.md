@@ -40,6 +40,7 @@ Explore our public repositories to see what we're working on right now.
 
 ## 📊 Community Impact
 
+- 🌟 3000+ students reached across all community activities
 - 🏆 Hult Prize Finalist
 - 🥈 2nd Runner-Up — CuttingEdge 2026
 - 🚀 Selected for the NIA Innovation Voucher Programme 2026
