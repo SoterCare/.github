@@ -18,6 +18,16 @@
 
 ---
 
+## 🚀 Start Here
+
+| | |
+| --- | --- |
+| 🏠 **[Community Hub](https://github.com/SoterCare/community)** | Everything we do together — events, guides, templates, and more |
+| 🌱 **[Join Us](https://github.com/SoterCare/community/blob/main/JOIN.md)** | No application — here's exactly how to get involved |
+| 🎓 **[Workshops](https://github.com/SoterCare/community/blob/main/WORKSHOPS.md)** | Hands-on sessions across AI, Cloud, and Blockchain |
+| ❤️ **[Open Source](https://github.com/SoterCare/community/blob/main/CONTRIBUTING.md)** | How to contribute — first-timers especially welcome |
+| 📚 **[Learning Resources](https://github.com/SoterCare/awesome-student-resources)** | A curated, free catalog for students — languages, cloud, careers, and more |
+
 ## 💙 Who We Are
 
 SoterCare is a student-led developer community building open-source healthcare technology through Artificial Intelligence, Cloud Computing, the Internet of Things, and modern software engineering.
