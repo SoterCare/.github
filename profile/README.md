@@ -59,7 +59,7 @@ Explore our public repositories to see what we're working on right now.
 
 **Community members have also participated in and received recognition through:**
 
-- 🏆 Hult Prize (Finalist) · 🥈 CuttingEdge 2026 (2nd Runner-Up) · 🚀 NIA Innovation Voucher Programme 2026 (Selected) · 🥉 CodeSprint 11 (3rd Place)
+- 🏆 Hult Prize (Finalist) · 🥈 CuttingEdge 2026 (2nd Runner-Up) · 🚀 NIA Innovation Voucher Programme 2026 (Selected) · 🎯 CodeSprint 11 (Finalist)
 
 ## 💻 Built on GitHub
 
