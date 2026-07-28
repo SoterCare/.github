@@ -50,7 +50,7 @@ Explore our public repositories to see what we're working on right now.
 
 ## 📊 Community Impact
 
-- 🌟 **900+** students directly engaged across documented events — VisioNEX 500+ (40+ schools) · Sandbox @ IIT 300+ · Algorand Workshop 100+
+- 🌟 **700+** students directly engaged across documented events — VisioNEX 500+ (40+ schools) · Sandbox @ IIT 100+ · Algorand Workshop 100+
 - 👨‍💻 **100+** students trained through the Algorand Blockchain Workshop
 - 🎓 **500+** school students from **40+** schools engaged through VisioNEX Hackathon
 - 🤝 Community Partner — Nexus Spring of Code (NSoC), a 5000+ member open-source program
