@@ -9,10 +9,9 @@
 
 **A student-led developer community where students learn through open-source collaboration, technical workshops, and real-world software projects in healthcare technology.**
 
-[![Website](https://img.shields.io/badge/Website-sotercare.com-1a73e8?style=flat-square&logo=googlechrome&logoColor=white)](https://sotercare.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SoterCare-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sotercare)
-[![Instagram](https://img.shields.io/badge/Instagram-@sotercare__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sotercare_/)
-[![YouTube](https://img.shields.io/badge/YouTube-@SoterCare-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SoterCare)
+<table>
+<tr><td><a href="https://sotercare.com"><img src="https://img.shields.io/badge/Website-sotercare.com-1a73e8?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a></td><td><a href="https://www.linkedin.com/company/sotercare"><img src="https://img.shields.io/badge/LinkedIn-SoterCare-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td><td><a href="https://www.instagram.com/sotercare_/"><img src="https://img.shields.io/badge/Instagram-@sotercare__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a></td><td><a href="https://www.youtube.com/@SoterCare"><img src="https://img.shields.io/badge/YouTube-@SoterCare-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a></td></tr>
+</table>
 
 </div>
 
@@ -108,10 +107,9 @@ Contributions of every kind are welcome — code, documentation, design, researc
 
 Whether you're interested in AI, Cloud, IoT, Blockchain, Mobile Development, or Open Source, we'd love to collaborate.
 
-[![Website](https://img.shields.io/badge/Website-sotercare.com-1a73e8?style=flat-square&logo=googlechrome&logoColor=white)](https://sotercare.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SoterCare-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sotercare)
-[![Instagram](https://img.shields.io/badge/Instagram-@sotercare__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sotercare_/)
-[![YouTube](https://img.shields.io/badge/YouTube-@SoterCare-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SoterCare)
+<table>
+<tr><td><a href="https://sotercare.com"><img src="https://img.shields.io/badge/Website-sotercare.com-1a73e8?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a></td><td><a href="https://www.linkedin.com/company/sotercare"><img src="https://img.shields.io/badge/LinkedIn-SoterCare-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td><td><a href="https://www.instagram.com/sotercare_/"><img src="https://img.shields.io/badge/Instagram-@sotercare__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a></td><td><a href="https://www.youtube.com/@SoterCare"><img src="https://img.shields.io/badge/YouTube-@SoterCare-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a></td></tr>
+</table>
 
 ---
 
